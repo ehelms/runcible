@@ -10,6 +10,11 @@ gem 'oauth'
 gem 'activesupport', '3.0.10'
 gem 'i18n', '0.5.0'
 
+group :development do
+  gem 'yard'
+  gem 'redcarpet'
+end
+
 group :test do
   gem 'vcr'
   gem 'webmock'

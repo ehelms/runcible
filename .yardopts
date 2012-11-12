@@ -1,0 +1,3 @@
+--output-dir=doc/build/ 
+--markup-provider=redcarpet
+--markup=markdown 
